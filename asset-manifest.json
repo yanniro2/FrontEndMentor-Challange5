@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/FrontEndMentor-Challange5/static/css/main.c5b12546.css",
+    "main.js": "/FrontEndMentor-Challange5/static/js/main.3165699d.js",
+    "static/js/787.a97cb00a.chunk.js": "/FrontEndMentor-Challange5/static/js/787.a97cb00a.chunk.js",
+    "static/media/image-equilibrium.jpg": "/FrontEndMentor-Challange5/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
+    "index.html": "/FrontEndMentor-Challange5/index.html",
+    "static/media/icon-view.svg": "/FrontEndMentor-Challange5/static/media/icon-view.fedac5512cc6657af397a76d5e03ea37.svg",
+    "static/media/icon-clock.svg": "/FrontEndMentor-Challange5/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
+    "static/media/icon-ethereum.svg": "/FrontEndMentor-Challange5/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
+    "main.c5b12546.css.map": "/FrontEndMentor-Challange5/static/css/main.c5b12546.css.map",
+    "main.3165699d.js.map": "/FrontEndMentor-Challange5/static/js/main.3165699d.js.map",
+    "787.a97cb00a.chunk.js.map": "/FrontEndMentor-Challange5/static/js/787.a97cb00a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5b12546.css",
+    "static/js/main.3165699d.js"
+  ]
+}
